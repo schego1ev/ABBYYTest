@@ -1,9 +1,9 @@
 # ABBYYTest
-Первая попытка собрать автотест на codeceptJS.
-Задача: залогиниться POST запросом через REST API
+The first attempt to write an autotest on a codeceptJS.
+Task: log in with a POST request via the REST API
 
-Чек-лист:
-- При отправке валидной пары значений login/pass сервер возвращает "200 ОК" (passed)
-- При отправке невалдиной пары значений login/pass сервер возвращает ошибку (passed)
+Checklist:
+- When sending a valid pair of login/pass values, the server returns "200 OK" (passed)
+- When sending an invalid pair of login/pass values, the server returns an error (passed)
 
-**В файле isPrime.js находятся решения теоретического задания
+**The isPrime.js file contains solutions to the theoretical task
